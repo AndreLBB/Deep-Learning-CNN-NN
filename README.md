@@ -1,0 +1,1 @@
+# Implementação de uma rede neural totalmente conectada (NN) e uma rede neural convolucional (CNN), com número próximo de parâmetros, com o objetivo de comparar as duas abordagens em uma tarefa de classificação de imagens.
